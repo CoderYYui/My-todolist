@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Ulster University's Faculty of Life & Health Sciences </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <!-- 设置学院标识、导航菜单等 -->
+        <h1 id="hd">Ulster University's Faculty of Life & Health Sciences </h1>
+        <nav>
+            <ul>
+                <li>Home</li>
+                <li>About us</li>
+                <li>Courses</li>
+                <li>Research</li>
+                <li>News and Events</li>
+                <li>Contact Us</li>
+            </ul>
+        </nav>
+    </header>
+    <hr>
+    <img src="health.jpeg" width="500">
+    <section>
+        <h2>Welcome to Ulster University's Faculty of Life & Health Sciences</h2>
+        <p>In UK's top 6 universities for Nursing and world's top 41 universities.</p >
+        <p>Longest established School of Health Sciences in the UK</p>
+        <p>Highest performance in the National Student Survey >90% satisfaction rating Ranked in the top 3 UK universities for Optomety</p>
+        <p>Ranked in the top 3 UK universities for Optomety </p>
+        <p>Largest School of Psychology on island of ireland.</p>
+        <p>One of top 5 UK universities for Nursing and Biomedical Science Research</p>
+        <p>Top UK University for studying Pharmacy, and ranked in top 6 for Biosciences</p>
+        <p>90.6% of graduates find employment or pursue further study within 6 months of graduation.</p>
+        <p>Ranked in the world's top 200 universities for Geography</p>
+
+    </section>
+    <hr>
+    <section>
+        <img src="science.jpg" width="500">
+        <h2>Our professional field</h2>
+        <p>Medicine,Pharmacology,Biology,Georaphy</p >
+    </section>
+
+
+    <footer>
+        <!-- 显示页脚内容，如联系信息和版权声明 -->
+      
+    </footer>
+</body>
+</html>
